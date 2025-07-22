@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['house']
+
+roboflow:
+  workspace: ngo-hoang-thai-duong-sdpwx
+  project: my-first-project-vduq0
+  version: 5
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/ngo-hoang-thai-duong-sdpwx/my-first-project-vduq0/dataset/5
